@@ -27,12 +27,16 @@ screenshot tampilan ui
 - bisa melihat makanan yang baru dipesan baru-baru ini bisa langsung menambakan manakan tersebut ke dalam keranjang
 
 
+
+
 2. Tampilan halaman restaurant dan menu makanannya
 
 ![tampilan halamanrestaurant](https://user-images.githubusercontent.com/87216883/126591842-d6778e4d-e119-4e6c-868f-e0f958d36e6b.png)
 
 - Kita bisa memilih makanan dari restaurant yang kita pilih dan juga menambahkan restaurant ke menu favorite kita 
 - kita bisa langsung menambahkan makanannnya ke menu keranjang
+
+
 
 
 3. Tampilan halaman keranjang
@@ -43,11 +47,15 @@ screenshot tampilan ui
 - kita juga bisa melihat total harga dan estimasi waktu sampai pesanannya
 
 
+
+
 4. Tampilan halaman setting
 
 ![tampilan halaman setting](https://user-images.githubusercontent.com/87216883/126592022-054e0889-e3ce-433b-9b03-fefbdab51959.png)
 
 - Di sini ada banyak pilihan yang bisa kita setting yaitu diantaranya ubah profile, password, display, Bahasa, payment, dan notifikasi 
+
+
 
 
 5. Tampilan halaman edit profile
