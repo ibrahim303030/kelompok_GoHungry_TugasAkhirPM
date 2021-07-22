@@ -15,9 +15,14 @@ kami dari kelompok GoHungry ini adalah source code front end dari project aplika
 
 --------------
 
-untuk screenshot tampilan ui nya berada didalam folder ' screenshot tampilan ui nya' dan sudah kami upload folder tersebut digithhub ini
+screenshot tampilan ui 
 
---------------
+1. Tampilan Halaman home
 
 ![home](https://user-images.githubusercontent.com/87216883/126591472-e52bb9bc-f950-4a07-8601-5334bdaaf006.png)
+
+- bisa mencari restaurant yang kita inginkan dengan mengetikan di kolom search 
+- bisa mencari restaurant dengan beberapa kategori seperti kategori restaurant terdekat, terpopuler, restaurant yang sedang mengadakan diskon, dan restaurant favorite kita. 
+- kita juga bisa melihat rating dan jarak dari masing-masing restaurant. Di 
+- bisa melihat makanan yang baru dipesan baru-baru ini bisa langsung menambakan manakan tersebut ke dalam keranjang
 
