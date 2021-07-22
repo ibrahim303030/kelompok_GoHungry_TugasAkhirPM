@@ -27,6 +27,7 @@ screenshot tampilan ui
 - bisa melihat makanan yang baru dipesan baru-baru ini bisa langsung menambakan manakan tersebut ke dalam keranjang
 
 
+///////////////////////////////////
 
 
 2. Tampilan halaman restaurant dan menu makanannya
@@ -37,6 +38,7 @@ screenshot tampilan ui
 - kita bisa langsung menambahkan makanannnya ke menu keranjang
 
 
+///////////////////////////////////
 
 
 3. Tampilan halaman keranjang
@@ -47,6 +49,7 @@ screenshot tampilan ui
 - kita juga bisa melihat total harga dan estimasi waktu sampai pesanannya
 
 
+///////////////////////////////////
 
 
 4. Tampilan halaman setting
@@ -56,6 +59,7 @@ screenshot tampilan ui
 - Di sini ada banyak pilihan yang bisa kita setting yaitu diantaranya ubah profile, password, display, Bahasa, payment, dan notifikasi 
 
 
+///////////////////////////////////
 
 
 5. Tampilan halaman edit profile
