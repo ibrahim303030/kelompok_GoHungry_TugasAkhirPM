@@ -13,7 +13,6 @@ Nama anggota dan job Desk kelompok
 coding tampilan halaman restaurant 
 
 3.	Yosua Manaek Marbun	 	        (20180801196) : 
-
 coding tampilan halaman keranjang dan menuliskan data-data nama restaurant , makanan, dan alamatnya.
 
 4.	Tri anando vilgadiandra 		    (20180801146) : 
