@@ -54,7 +54,7 @@ screenshot tampilan ui
 
 4. Tampilan halaman setting
 
-![tampilan halaman setting](https://user-images.githubusercontent.com/87216883/126592022-054e0889-e3ce-433b-9b03-fefbdab51959.png)
+![tampilan halaman setting](https://user-images.githubusercontent.com/87216883/126606277-794c8d59-ed3b-474a-b0f3-cc7ae8383e76.png)
 
 - Di sini ada banyak pilihan yang bisa kita setting yaitu diantaranya ubah profile, password, display, Bahasa, payment, dan notifikasi 
 
