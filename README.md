@@ -2,12 +2,12 @@
 
 Nama anggota kelompok GoHungry
 
-1.	Rafif Athollah 			(20180801228)
-2.	Syafiq Ali Uraidi 			(20180801114)
+1.	Rafif Athollah 			          (20180801228)
+2.	Syafiq Ali Uraidi 			      (20180801114)
 3.	Tri anando vilgadiandra     	(20180801146)
 4.	Muhammad Farhan Trisyahputra 	(20180801367)
-5.	Muhammad Farhan Ibrahim 	(20180801139)
-6.	Yosua Manaek Marbun 		(20180801196)
+5.	Muhammad Farhan Ibrahim 	    (20180801139)
+6.	Yosua Manaek Marbun 		      (20180801196)
 
 ---------------
 
