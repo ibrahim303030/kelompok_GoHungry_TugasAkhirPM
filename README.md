@@ -19,7 +19,7 @@ screenshot tampilan ui
 
 1. Tampilan Halaman home
 
-![home](https://user-images.githubusercontent.com/87216883/126591472-e52bb9bc-f950-4a07-8601-5334bdaaf006.png)
+![home](https://user-images.githubusercontent.com/87216883/126606064-c7cfe426-35e9-44a6-a309-2c2e5244e95f.jpeg)
 
 - bisa mencari restaurant yang kita inginkan dengan mengetikan di kolom search 
 - bisa mencari restaurant dengan beberapa kategori seperti kategori restaurant terdekat, terpopuler, restaurant yang sedang mengadakan diskon, dan restaurant favorite kita. 
