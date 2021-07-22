@@ -1,6 +1,6 @@
 # kelompok_GoHungry_TugasAkhirPM
 
-kami dari kelompok GoHungry ini adalah source code front end dari project aplikasi yang telah kamibuat
+kami dari kelompok GoHungry ini adalah source code front end dari project aplikasi yaitu sebuah aplikasi delivery food yang bernama 'Go Hungry'. go hungry merupakan sebuah aplikasi yang digunakan untuk memesan makanan atau minuman dari beberapa rumah makan dan restaurant di berbagai tempat seluruh Indonesia. Disini kita bisa memesan makanan dan minuman secara online
 
 ---------------
 
