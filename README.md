@@ -15,4 +15,9 @@ kami dari kelompok GoHungry ini adalah source code front end dari project aplika
 
 --------------
 
-screenshot tampilan ui nya 
+untuk screenshot tampilan ui nya berada didalam folder ' screenshot tampilan ui nya' dan sudah kami upload folder tersebut digithhub ini
+
+--------------
+
+![home](https://user-images.githubusercontent.com/87216883/126591472-e52bb9bc-f950-4a07-8601-5334bdaaf006.png)
+
