@@ -2,6 +2,8 @@
 
 kami dari kelompok GoHungry ini adalah source code front end dari project aplikasi yang telah kami
 
+---------------
+
 Nama anggota dan job Desk kelompok
 
 1.	Muhammad Farhan Ibrahim 	(20180801139) :
