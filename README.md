@@ -1,6 +1,6 @@
 # kelompok_GoHungry_TugasAkhirPM
 
-kami dari kelompok GoHungry ini adalah source code front end dari project aplikasi yang telah kami
+kami dari kelompok GoHungry ini adalah source code front end dari project aplikasi yang telah kamibuat
 
 ---------------
 
