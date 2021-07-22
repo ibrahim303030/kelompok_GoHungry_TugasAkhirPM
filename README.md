@@ -23,3 +23,5 @@ coding tampilan halaman edit profile
 
 6.	Muhammad Farhan Trisyahputra  (20180801367) : 
 membuat design ui dan dokumentasi
+
+![tampilan halaman home](https://user-images.githubusercontent.com/87216883/126590661-c2c2c575-80ff-41cc-b5d8-1a2342611fc0.png)
